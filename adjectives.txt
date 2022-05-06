@@ -1,0 +1,29 @@
+(m)r jes t o r a n:restaurant;(f)b o l n i tsa :hospital;(n)u chi l i scje:college;(p)b a n k i :banks;(a)k o m n a t u :room (accusative)
+b o l sfsh:o y ,a ja,o je,i je,u ju;large
+g o s u d a r s t v jen n :ihy ,a ja,o je,ihje,u ju;state;federal
+i z v jes t n :ihy ,a ja,o je,ihje,u ju;well known
+i n t jer jes n :ihy ,a ja,o je,ihje,u ju;interesting
+l jog k :i y ,a ja,o je,i je,u ju;easy;not hard;light
+l jub i m :ihy ,a ja,o je,ihje,u ju;favourite
+m jed i tsi n s k :i y ,a ja,o je,i je,u ju;medical
+m o s k o v s k :i y ,a ja,o je,i je,u ju;moscow
+n o v :ihy ,a ja,o je,ihje,u ju;new
+p l o x o :ihy ,a ja,o je,ihje,u ju;bad
+s o tsi a l sfn :ihy ,a ja,o je,ihje,u ju;social
+s r jed n :i y ,jaja,jeje,i je,u ju;middle
+s t a r :ihy ,a ja,o je,ihje,u ju;old
+t r u d n :ihy ,a ja,o je,ihje,u ju;difficult
+cha s t n :ihy ,a ja,o je,ihje,u ju;private
+i n o s t r a n n :ihy ,a ja,o je,ihje,u ju;foreign
+i s p a n s k :i y ,a ja,o je,i je,u ju;spanish
+n jem jetsk :i y ,a ja,o je,i je,u ju;german
+s o tsi o l o g i chjes k :i y ,a ja,o je,i je,u ju;sociological
+f r a n tsu s k :i y ,a ja,o je,i je,u ju;french
+e k o n o m i chjes k :i y ,a ja,o je,i je,u ju;economics
+d o m a shn :i y ,jaja,jeje,i je,u ju;home
+g r jaz n :ihy ,a ja,o je,ihje,u ju;dirty
+k r a s i v :ihy ,a ja,o je,ihje,u ju;beautiful;nice
+m a l jen sfk :i y ,a ja,o je,i je,u ju;small
+u d o b n :ihy ,a ja,o je,ihje,u ju;comfortable;convenient
+chi s t :ihy ,a ja,o je,ihje,u ju;clean
+r a b o ch:i y ,a ja,jeje,i je,u ju;work

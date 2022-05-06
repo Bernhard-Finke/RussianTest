@@ -1,0 +1,25 @@
+(1)ja:I;(2)t ih:you (sing.);(3)o n :he;(3)o n a :she;(3)o n o :it;(4)m ih:we;(5)v ih:you (pl);(6)o n i :they
+g o v o r :ju,i shsf,i t ,i m ,i t je,jat ;speak
+r a b o t a :ju,jeshsf,jet ,jem ,jet je,jut ;work
+zhi v :u ,joshsf,jot ,jom ,jot je,u t ;live
+u ch:u s sf,i shsfs ja,i t s ja,i m s ja,i t jes sf,a t s ja;study
+u ch:u ,i shsf,i t ,i m ,i t je,a t ;learn
+x o :chu ,chjeshsf,chjet ,t i m ,t i t je,t jat ;want;wish
+b ihv a :ju,jeshsf,jet ,jem,jet je,jut ;frequent
+i z u cha :ju,jeshsf,jet ,jem ,jet je,jut ;major
+o t d ihx a :ju,jeshsf,jet ,jem ,jet je,jut ;rest;relax
+d jel a :ju,jeshsf,jet ,jem ,jet je,jut ;do;make
+z a n i m a :jus sf,jeshsfs ja,jet s ja,jem s ja,jet jes sf,jut s ja;engage
+l jub :l ju,i shsf,i t ,i m ,i t je,jat ;love;like
+p i sh:u ,jeshsf,jet ,jem ,jet je,u t ;write
+s l u sha :ju,jeshsf,jet ,jem ,jet je,jut ;listen
+s m o t r :ju,i shsf,i t ,i m ,i t je,jat ;watch
+x o :zhu ,d i shsf,d i t ,d i m ,d i t je,d jat ;go
+chi t a :ju,jeshsf,jet ,jem ,jet je,jut ;read
+p o v t o r ja:ju,jeshsf,jet ,jem ,jet je,jut ;repeat
+p o n i m a :ju,jeshsf,jet ,jem ,jet je,jut ;understand
+s n i m a :ju,jeshsf,jet ,jem ,jet je,jut ;rent
+k u p :l ju,i shsf,i t ,i m ,i t je,jat ;buy
+s d a :ju,joshsf,jot ,jom ,jot je,jut ;rent out
+s t o :ju,i shsf,i t ,i m ,i t je,jat ;stand
+p l a :chu ,t i shsf,t i t ,t i m ,t i t je,t jat ;pay

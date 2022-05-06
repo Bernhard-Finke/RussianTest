@@ -1,0 +1,38 @@
+n o l sf;0
+o d i n ;1
+d v a ;2
+t r i ;3
+chjet ihr je;4
+p jat sf;5
+shjes t sf;6
+s jem sf;7
+v o s jem sf;8
+d jev jat sf;9
+d jes jat sf;10
+o d i n n a d tsa t sf;11
+d v jen a d tsa t sf;12
+t r i n a d tsa t sf;13
+chjet ihr n a d tsa t sf;14
+p jat n a d tsa t sf;15
+shjes t n a d tsa t sf;16
+s jem n a d tsa t sf;17
+v o s jem n a d tsa t sf;18
+d jev jat n a d tsa t sf;19
+.d v a d tsa t sf;20
+t r i d tsa t sf;30
+s o r o k ;40
+p jat sfd jes jat ;50
+shjes t sfd jes jat ;60
+s jem sfd jes jat ;70
+v o s jem sfd jes jat ;80
+d jev jan o s t o ;90
+.s t o ;100
+d v jes t i ;200
+t r i s t a ;300
+chjet ihr jes t a ;400
+p jat sfs o t ;500
+shjes t sfs o t ;600
+s jem sfs o t ;700
+v o s jem sf s o t ;800
+d jev jat sfs o t ;900
+.t ihs jacha ;1000

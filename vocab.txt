@@ -1,0 +1,477 @@
+a p t jek a ;drugstore
+b a n k ;bank
+b r a t ;brother
+d a ;yes
+d jen sf;day
+d o b r ihy ;good
+d o m ;house;home
+d o s k a ;blackboard
+k o t ;cat(m)
+k o m n a t a ;room
+k t o ;who
+m a m a ;mom;mum
+m a y ;may
+m o y ;my(m)
+m o ja;my(f)
+m o r je;sea
+m ih;we
+m jach;ball
+n jet ;no
+n je;not
+o k n o ;window
+o n ;he
+o n a ;she
+o n o ;it
+p a p a ;dad
+p o cht a ;post office
+p o k a ;bye;so long;later
+r u chk a ;pen
+s jek r jet ;secret
+s jem sfja;family
+s jes t r a ;sister
+s o b a k a ;dog
+s t u d jen t;student(m)
+s t u d jen t k a ;student(f)
+t a m ;there
+t ih;you
+u r o k ;lesson
+u t r o ;morning
+cha s ;hour
+cht o ;what
+e t o ;this is;that is; it is;these are;those are
+ja;i
+d o b r o je  u t r o ;good morning
+d o b r ihy   d jen sf;good afternoon
+.a ;and;but
+a m jer i k a ;america
+a m jer i k a n jets;american(m)
+a m jer i k a n k a ;american(f)
+a r t i s t ;actor
+a s p i r a n t ;graduate student(m)
+a s p i r a n t k a ;graduate student(f)
+b i b l i o t jek a ;library
+b o l sfn i tsa ;hospital
+b u k v a ;letter
+v o n ;there is
+v o t ;here is
+v r a ch;physician;doctor
+v ih;you
+g d je;where
+g o v o r i t sf;to speak
+g o r o d ;city
+d i k t a n t ;dictation
+d r u g ;friend(m)
+zhi t sf;to live
+z v u k ;sound
+i ;and
+i g r a ;play
+i l i ;or
+k a k o je;what(n)
+k a r a n d a sh;pencil
+m e d s jes t r a ;nurse
+m o jo;my(n)
+m u z e y ;museum
+m u z i k a n t ;musician
+n jep l o x o ;all right
+o n i ;they
+o r k jes t r ;orchestra
+p a r k ;park
+p i s sfm o ;letter
+p l o x o ;awful;terrible
+p o - a n g l i y s k i ;in english
+p o d r u g a ;friend(f)
+p o - r u s s k i ;in russian
+p r o f jes s o r ;professor
+r a b o t a t sf;to work
+r a z g o r o v ;conversation
+r jes t o r a n ;restaurant
+r u s s k a ja;russian(f)
+r u s s k i y ;russian(m)
+s l o v a r sf;vocabulary
+s l o v o ;word
+t a m ;there
+t v o jo;your(n)
+t v o y ;your(m)
+t v o ja;your(f)
+t jea t r ;theatre
+t u t ;here
+u n i v jer s i t jet ;university
+u chi t jel sfn i tsa ;teacher(f)
+u chi t sfs ja;to study;to be a student;
+f i r m a ;firm;company
+x o r o sho ;fine
+tsjen t r ;center;downtown
+shk o l a ;school
+e k o n o m i s t ;economist
+jur i s t ;lawyer
+a   v a s ;what about you(f)
+a t jeb ja;what about you
+a   u   t jeb ja;how about yourself
+d o   s v i d a n i ja;goodbye
+d o b r ihy   v jechjer ;good evening
+jeg o   z o v u t ;his name is
+jejo  z o v u t ;her name is
+z d r a v s t v u y ;hello
+k a k   d jel a ;how are things;how are you
+k a k   t jeb ja  z o v u t ;what's your name
+m jen ja  z o v u t ;my name is
+o chjen sf  p r i jat n o ;thank you
+e t o   v s je;that's it
+.a k a d jem i ja;academy
+b o l sfsho y;large
+v o p r o s ;question
+g i m n a z i ja;special school
+g o s u d a r s t v e n n ihy ;state;federal
+jeshjo;in addition;still
+i z v jes t n ihy ;well known
+i n s t i t u t ;institute
+i n t jer jes n ihy ;interesting
+k a k o y ;what kind of; what; which
+k o l l jed zh;college
+l jog k i y ;easy;not hard;light
+l u chshje;better
+l jub i m ihy ;favorite
+m jed i tsi n s k i y ;medical
+m o s k o v s k i y ;moscow
+n o ;but;however
+n o v ihy ;new
+n o m jer ;number
+o p r o s ;survey
+o chjen sf;very
+p l o x o y ;bad
+p r jed m jet ;subject
+p r jep o d a v a t jel sf;instructor(m)
+p r jep o d a v a t jel sfm i tsa ;instructor(f)
+r e z u l sft a t ;result
+r o s s i ja;russia
+s o tsi a l sfn ihy ;social
+s r jed n i y ;middle
+s t a r ihy ;old
+t r u d n ihy ;difficult
+u chi l i scje;college
+u chi t jel sf;school teacher(m)
+u chi t sf;to study;to learn
+x o r o shi y ;good
+x o t jet sf;to want;to wish
+cha s t n ihy ;private
+shk o l sfn i k ;school student(m)
+shk o l sfn i tsa ;school student(f)
+jaz ihk ;language
+b i o l o g i ja;biology
+g jeo g r a f i ja;geography
+i s t o r i ja;history
+l i t jer a t u r a ;literature
+m a t jem a t i k a ;mathematics
+m jed i tsi n a ;medicine
+p s i x o l o g i ja;psychology
+r u s s k i y   jaz ihk ;russian
+s t a t i s t i k a ;statistics
+f i l o s o f i ja;philosophy
+f i z i k a ;physics
+x i m i ja;chemistry
+e k o n o m i k a ;economics
+a n g l i y s k i y   jaz ihk ;english
+a r a b s k i y ;arabic
+i s p a n s k i y ;spanish
+k i t a y s k i y ;chinese
+k o r jey s k i y ;korean
+n jem jetsk i y ;german
+f r a n tsu z s k i y ;french
+jap o n s k i y ;japanese
+.a u d i t o r i ja;classroom
+b a s s jey n ;swimming pool
+b ihv a t sf;to frequent;to be somewhere often
+v ihx o d n o y ;day off;free day
+g a z jet a ;newspaper
+g r u p p a ;group
+d jek a n a t ;dean's office
+jes t sf;there is;there are
+i z u cha t sf;to study something to depth;to major in
+i n o s t r a n n ihy ;foreign
+i s p a n s k i y ;spanish
+k a f je;café
+k o g d a ;when
+l a v o r a t o r i ja;laboratory
+m a g a z i n ;store
+n jed jel ja;week
+n jem jetsk i y ;german
+o b scjezhi t i je;dorm
+o t d ihx a t sf;to rest;to relax; to take it easy
+p jer jer ihv ;break
+p o zha l u y s t a ;you're welcome;please
+p r a v i l sfn o ;that's right;correct
+r a s p i s a n i je;schedule
+r jed k o ;seldom
+s jeg o d n ja;today
+s jey cha s ;now
+s o tsi o l o g i chjes k i y ;sociological
+s p jetsi a l sfn o s t sf;major;field of specialization
+s p o r t z a l ;gym
+s t a d i o n ;stadium
+s t o l o v a ja;dining hall;cafeteria
+s t r a n i tsa ;page
+t a k zhje;in addition to that;also
+f a k u l t sft jet ;faculty;university department
+f i z k u l sft u r a ;physical education
+zhu r n a l i s t ;journalist
+f o t o zhu r n a l i s t ;newspaper photographer
+f r a n tsu z k i y ;french
+cha s t o ;often
+e k o n o m i chjes k i y ;economics
+a r x i t jek t u r a ;architecture
+b i z n jes ;business
+zhu r n a l i s t i k a ;journalism;communication studies
+m jezhd u n a r o d n ihje  o t n o shjen i ja;international relations
+m jen jed zhm jen t ;management
+p jed a g o g i k a ;education
+p o l i t o l o g i ja;political science
+p r a v o ;law
+s o tsi o l o g i ja;sociology
+f i l o s o f i ja;philosophy
+f i n a n s ih;finance
+p o n jed jel sfn i k ;monday
+v t o r n i k ;tuesday
+s r jed a ;wednesday
+chjet v jer g ;thursday
+p jat n i tsa ;friday
+s u b b o t a ;saturday
+v o s k r jes jen sfje;sunday
+.b l juz ;blues
+v ;to;in;into
+v jechjer ;evening
+v jechjer o m ;in the evening
+v ihx o d n ihje;days off;weekend
+d jet jek t i v ;detective novel;crime story
+d jel a t sf;to do;to make
+d zha z ;jazz
+d i s k o t jek a ;discotheque
+d i s k o ;disco
+d n jom ;during the day
+d o m a shn i y ;home; house
+d o m a shn jeje  z a d a n i je;homework
+zhu r n a l ;magazine
+z a n i m a t sfs ja;to do one's homework
+z a n i m a t sfs ja  v   s p o r t z a l je;to exercise in a gym
+i m jey l ;e-mail
+k a k i je;what;what kind
+k i n o ;movie;movie theater
+k l a s s i k a ;classical
+k n i g a ;book
+k o m jed i ja;comedy
+k o n tsjer t ;concert
+k u d a ;where to
+l jub i t sf;to love;to like
+m u l sft f i l sfm ;cartoon
+m u s ihk a ;music
+n a ;at;to;on
+o b ihchn o ;usually
+p i s a t sf;to write
+p o t o m ;then;after that
+r a d i o ;radio
+r o k ;rock music
+s l u sha t sf;to listen
+s m o t r jet sf;to look;to watch
+t jel jev i z o r ;tv
+t jen n i s ;tennis
+u chjeb n i k ;textbook
+u t r o m ;in the morning
+f i l sfm ;movie
+f o t o g r a f i ja;picture;photograph
+f u t b o l ;football
+x o d i t sf;to go somewhere
+chi t a t sf;to read
+e l jek r o n n o je  s o o b shjen i je;e-mail
+.a l l o ;hello
+b iht sf;to be
+v a sh;your
+v a n n a ja;bathroom
+v s jo;everything
+g o s t i n a ja;living room
+g o s t sf;guest
+g r jaz n ihy ;dirty
+jeg o ;his
+jejo;her
+z d jes sf;here
+i x ;their
+k a b i n jet ;study;office
+k v a r t i r a ;apartment
+k o n jechn o ;certainly
+k o r i d o r ;hallway
+k r a s i v ihy ;beautiful;nice
+k u x n ja;kitchen
+m a l jen sfk i y ;small
+n a sh;our
+o d n a ;one
+p o v t o r i t sf;to repeat
+p o zha l u y s t a ;please;you're welcome
+p o n i m a t sf;to understand
+r a n sfshje;before
+s n i m a t sf;to rent
+s p a l sfn ja;bedroom
+t o zhje;also;too
+t o l sfk o ;only
+t u a l jet ;bathroom;restroom
+u d o b n ihy ;comfortable;convenient
+chjey ;whose
+chi s t ihy ;clean
+e t a zh;floor
+.d a v n o ;a long time ago;for a long time
+d o l zhjen ;must;should
+z jer k a l o ;mirror
+k a r t i n a ;picture;painting
+k n i zhn ihy ;book
+k u p i t sf;to buy
+l a m p a ;lamp;light
+m jeb jel sf;furniture
+m o s k v i ch;muscovite(m)
+m o s k v i chk a ;muscovite(f)
+n jel a v n o ;recently
+n o r m a l sfn o ;ok;fine
+p o z d r a v l jaju;congratulations
+p o z d r a v l jat sf;to congratulate
+p o cht i ;almost
+s d a v a t sf;to rent out
+s t o jat sf;to stand
+t ihs jacha ;thousand
+f i l i a l ;branch of an office
+tsjen t r a l ihy   o f i s ;headquarters
+cha s ih;clock;watch
+chjel o v jek ;person
+d i v a n ;sofa;couch
+k n i zhn ihy   shk a f ;bookcase
+k r jes l o ;easy chair;armchair
+k r o v a t sf;bed
+s t o l ;table;desk
+s t u l ;chair
+shk a f ;cupboard;closet
+k o m p sfjut jer ;computer
+m i k r o v o l n o v k a ;microwave
+r a d i o ;radio
+s t i r a l sfn a ja  m a shi n a ;washer;washing machine
+m a g n i t o f o n ;tape recorder
+t jel jev i z o r ;television
+t jel jef o n ;telephone
+x o l o d i l sfn i k ;refrigerator;fridge
+.a v t o b u s ;bus
+a r jen d a ;rent
+a d r jes ;address
+v x o s ;entrance
+v ihx o d ;exit
+g o d ;year
+d v u x k o m n a t n a ja;two-room
+d o l l a r ;dollar
+jev r o ;euro
+i m ja;first name
+k l u b ;club
+l i f t ;elevator
+m jet r o ;subway
+m jes t o ;place
+m jes jats;months
+m i l i tsi ja;police
+n jed a l jek o   o t ;not far from
+o d n o k o m n a t n a ja;one-room
+o k o l o ;not far,near
+o s t a n o v k a ;bus stop
+o t chjes t v o ;patronymic
+p l a t i t sf;to pay
+r a b i chi y ;work
+r a y o n ;neighborhood
+r u b l sf;ruble
+s a d ;garden
+s k o l sfk o ;how much
+s n jat sf;to rent
+s t a n tsi ja;station
+s t o i t sf;to cost
+u l i tsa ;street
+f a m i l i ja;last name
+p jer v ihy ;first
+v t o r o y ;second
+t r jet i y ;third
+chjet v jor t ihy ;fourth
+p jat ihy ;fifth
+shjes t o y ;sixth
+s jed sfm o y ;seventh
+v o s sfm o y ;eigth
+d jev jat ihy ;ninth
+d jes jat ihy ;tenth
+.v s jo;everything;all
+v s jeg d a ;always
+v chjer a ;yesterday
+g o d ;year
+g u l jat sf;to go for a walk
+d jen sfg i ;money
+d jeshjev o ;inexpensive,cheap
+d jeshjev l je;cheaper
+d i jet a ;diet
+d o p o g o ;expensive
+jed a ;food
+jes t sf;to eat
+s b jes t sf;to eat up
+z a v t r a k ;breakfast
+i s t r i chjes k i y ;historical
+k a zhd ihy ;every
+k o p jey k a ;kopeck
+k u r i t sf;to smoke
+l u chshje;better
+m o zhn o ;one can;one may;it is permitted
+n a d o ;it is necessary;one has to
+n jed o r o g o ;not expensive
+n jel sfz ja;one can't;it's not permitted
+n i k o g d a ;never
+o b jed ;dinner
+o b ihchn o ;usually
+p i t sf;to drink
+p r o d u k t ih;groceries
+p r o chi t a t sf;to read
+r a z ;once
+r ihn o k ;market
+s d jel a t sf;to accomplish,to get done
+s u p jer m a r k jet ;supermarket
+t e k s t ;text
+u zhje;already
+z chjeb n i k ;textbook
+u zhi n ;supper
+tsjen a ;price
+jed a ;food
+a p jel sfs i n ;orange
+b u t e r b r o d ;sandwich
+v i n o ;wine
+v o d a ;water
+v o d k a ;wodka
+g a m b u r g e r ;hamburger
+k a r t o f jel sf;potatoes
+k o l b a s a ;sausage
+k o f je;coffee
+k u r i tsa ;chicken
+l i m o n ;lemon
+m a s l o ;butter;oil
+m o l o k o ;milk
+m o r o zhjen o je;ice-cream
+m jas o ;meat
+o b o shi ;vegetables
+p jechjen sfje;cookies
+p i v o ;beer
+p i tstsa ;pizza
+r i s ;rice
+r ihb a ;fish
+s a l a t ;salad;lettuce
+s o k ;juice
+s u p ;soup
+s ihr ;cheese
+t o r t  ;cake, torte
+f r u k t ih;fruit
+x l jeb ;bread
+cha y ;tea
+sho k o l a d ;chocolate
+jay tso ;egg
+jab l o k o ;apple
+o d i n n a d tsa t ihy ;eleventh
+d v jen a d tsa t ihy ;twelth
+t r i n a d tsa t ihy ;thirteenth
+chjet ihr n a d tsa t ihy ;fourtheenth
+p jat n a d tsa t ihy ;fifteenth
+shjes t n a d tsa t ihy ;sixteenth
+s jem n a d tsa t ihy ;seventeenth
+v o s jem n a d tsa t ihy ;eigteenth
+d jev jat n a d tsa t ihy ;nineteenth
+d v a d tsa t ihy ;twenthieth
